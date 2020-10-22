@@ -11,10 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: boschellil@wustl.edu
 organizations:
   - name: Washington University in St. Louis
 education:
