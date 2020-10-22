@@ -1,6 +1,6 @@
 ---
 title: Lucas D. Boschelli
-role: PhD Candidate
+role: Ph.D. Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
