@@ -8,15 +8,12 @@ interests:
   - Local Politics
   - Partisanship
   - Methodology
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: boschellil@wustl.edu
+social: []
 organizations:
   - name: Washington University in St. Louis
 education:
   courses: []
-email: ""
+email: boschelli@wustl.edu
 superuser: true
 user_groups:
   - Researchers
