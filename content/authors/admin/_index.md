@@ -22,4 +22,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Text
+I am a third year Ph.D candiate at Washington University.
+
+I write on political behavior and participation within American Politics, with a focus on local politics.
