@@ -1,5 +1,5 @@
 ---
-title: "This is a place holder"
+title: "An example conference paper"
 authors:
 - admin
 date: "2013-07-01T00:00:00Z"
