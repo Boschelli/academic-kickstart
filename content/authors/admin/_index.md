@@ -22,4 +22,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a Ph.D candidate in th Department of Political Science at Washington University in St. Louis. I broadly study American political behavior, and political methodology. I have a particular interest in political participation and representation within local governments. You can get in touch with me by the email linked below.
+Hi! I am a Ph.D candidate in th Department of Political Science at Washington University in St. Louis. I study political behavior particularly within the realm of local politics. My current research examines how individuals participate across overlapping local governments as well as how institutional changes to local governments affects participation. I also have interests in political methodology, and American political polarization. You can get in touch with me by the email linked below.
