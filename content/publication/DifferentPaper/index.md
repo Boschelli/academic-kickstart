@@ -24,7 +24,7 @@ featured: true
 
 links:
   - name: PDF
-    url: ""
+    url: "Local_Partisan_Evaluations_Draft.pdf"
 url_pdf: ""
 
 # Associated Projects (optional).
