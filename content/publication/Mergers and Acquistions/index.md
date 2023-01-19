@@ -16,15 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-abstract: Increasingly, corporations expand through the creation or acquisition of new subsidiary companies. Despite the commonality of the practice, little is known regarding how it influences
-corporations’—and by extension, their subsidiaries’—political behavior. This paper analyzes
-how subsidiaries shape corporations’ political interests and collaborations as they seek to influence the Supreme Court. To accomplish this, we construct a historical dataset of the acquisitions
-and mergers of a politically active sample of Fortune 500 corporations (spanning various industries and sizes) that we combine with their history of filing amicus curiae briefs to the Court.
-Through social network and longitudinal analyses, we analyze whether and how corporations
-change their targeted issue areas, collaborations and political success following consolidation.
-While mergers and acquisitions have no effect on the quantity of actions or success before the
-Court, they expand the issues of political interest for corporations, making them information
-brokers in their new political network.
+abstract: Increasingly, corporations expand through the creation or acquisition of new subsidiary companies. Despite the commonality of the practice, little is known regarding how it influences corporations’—and by extension, their subsidiaries’—political behavior. This paper analyzes how subsidiaries shape corporations’ political interests and collaborations as they seek to influence the Supreme Court. To accomplish this, we construct a historical dataset of the acquisitions and mergers of a politically active sample of Fortune 500 corporations (spanning various industries and sizes) that we combine with their history of filing amicus curiae briefs to the Court. Through social network and longitudinal analyses, we analyze whether and how corporations change their targeted issue areas, collaborations and political success following consolidation. While mergers and acquisitions have no effect on the quantity of actions or success before the Court, they expand the issues of political interest for corporations, making them information brokers in their new political network.
 
 # Summary. An optional shortened abstract.
 summary: This paper seeks to understand how corporate growth through the practice of mergers and acquisitions influence a company's political behavior before the Supreme Court.
