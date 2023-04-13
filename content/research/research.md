@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Working Papers"
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "Working Papers"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = true
     author = ""
     exclude_featured = false
 
