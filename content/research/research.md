@@ -27,7 +27,7 @@ title = "Research"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = true
+    publication_type = ""
     author = ""
     exclude_featured = false
 
