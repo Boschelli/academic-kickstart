@@ -6,9 +6,9 @@ permalink: /research/
 ---
 ## Under Review:
 ---
-### **The Return of Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**
+ **The Return of Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**
 
-#### Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson 
+ Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson 
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
