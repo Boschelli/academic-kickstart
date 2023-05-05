@@ -6,9 +6,8 @@ permalink: /research/
 ---
 ## Under Review:
 ---
- **The Return of Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**
-
- Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson 
+ **The Return of Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**  
+ Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson   
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
@@ -23,9 +22,8 @@ permalink: /research/
 
 ## Conference Presentations:
 ---
-**Deal or No Deal: Voting on Multiple Provision Ballot Measures.**
-
-Lucas Boschelli and Dino P. Christenson 
+**Deal or No Deal: Voting on Multiple Provision Ballot Measures.**  
+Lucas Boschelli and Dino P. Christenson  
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
@@ -36,14 +34,9 @@ Lucas Boschelli and Dino P. Christenson
 </details>
 
 \
-**Expanding Our Coverage Of Local Politics: An Application of Named-Entity Recognition to Public Meeting Minutes**
-
-Lucas Boschelli 
-
-[<kbd>[Poster Presentation]</kbd>](https://www.dropbox.com/s/7cj2i37lnvq5y0h/BoschelliLucasPoster.pdf?dl=0)
-
-
-
+**Expanding Our Coverage Of Local Politics: An Application of Named-Entity Recognition to Public Meeting Minutes**  
+Lucas Boschelli  
+[<kbd>[Poster Presentation]</kbd>](https://www.dropbox.com/s/7cj2i37lnvq5y0h/BoschelliLucasPoster.pdf?dl=0)  
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
@@ -59,11 +52,9 @@ Lucas Boschelli
 
 ## Working Papers:
 ---
-**Is it All Good in the Neighborhood? How Partisanship May Distort Evaluations of Municipal Services**
-
-Lucas Boschelli 
-
-[<kbd>[Working Draft]</kbd>](https://www.dropbox.com/s/nadhfh4lfdrf6hd/Paper_3_Local_Partisan_Evaluations_Draft.pdf?dl=0) [<kbd>[Data]</kbd>](https://www.dropbox.com/s/7cj2i37lnvq5y0h/BoschelliLucasPoster.pdf?dl=0)
+**Is it All Good in the Neighborhood? How Partisanship May Distort Evaluations of Municipal Services**  
+Lucas Boschelli  
+[<kbd>[Working Draft]</kbd>](https://www.dropbox.com/s/nadhfh4lfdrf6hd/Paper_3_Local_Partisan_Evaluations_Draft.pdf?dl=0) [<kbd>[Data]</kbd>](https://www.dropbox.com/s/7cj2i37lnvq5y0h/BoschelliLucasPoster.pdf?dl=0)  
 <details> 
   <summary>
  <kbd>[Abstract]</kbd>
