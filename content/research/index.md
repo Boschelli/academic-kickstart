@@ -18,10 +18,7 @@ permalink: /research/
 </details>
 
 
-<br/>
 
-## Conference Presentations:
----
 **Deal or No Deal: Voting on Multiple Provision Ballot Measures.**  
 Lucas Boschelli and Dino P. Christenson  
  <details> 
@@ -32,8 +29,41 @@ Lucas Boschelli and Dino P. Christenson
     Ballot measures provide a unique instance of direct democracy in which voters have a say in a state’s legislative process. However, voters vary in how they understand and evaluate these measures, many of which can be relatively complicated and comprised of multiple provisions. Are voters deliberate legislators, or do they instead rely on heuristics to guide their final decision? When multiple provisions exist, how do voters weigh their varying support in their calculus of overall support for the measure? To examine these questions, we conduct a novel survey utilizing three real ballot measures under consideration during the 2022 Missouri midterm election cycle. By experimentally assigning how we ask respondents for their support of a given ballot, we garner insight into how voters approach voting on ballots and their greater decision-making process. We find evidence of a negativity bias, which is strongest on the most complex and least polarized issue
   </blockquote>
 </details>
+<br/>
 
-\
+## Conference Presentations:
+---
+**Is a More Accessible Local Government a More Representative One? The Effects of Online Public Meetings**  
+Lucas Boschelli
+ <details> 
+  <summary>
+ <kbd>[Abstract]</kbd>
+  </summary>
+  <blockquote>
+    Is a more accessible local government a more representative one? In response to the COVID19 pandemic, many local governments opted to host their public meetings—at least in part—virtually,
+a practice many continued even after the worst of the pandemic subsided. Despite the theorized
+increase in accessibility, previous research has found limited effects on either participation or
+the diversity of participants following this shift to online format meetings; however, most of this
+work has only examined local participation in the vacuum of municipal governments. Policy
+issues often involve multiple overlapping local institutions, each with its own governing body
+and, importantly, each with its own opportunities for civic engagement. This paper attempts to
+expand our understanding of political participation within local politics by analyzing whether
+the shift to more accessible online meetings promotes healthy democratic participation or amplifies pre-existing inequities in local political participation. To accomplish this, I first construct a
+novel dataset of public meeting minutes from 2018 until 2022 for county, municipal, and school
+board governments within the St. Louis region. I then combine public participation data from
+these minutes with existing political and demographic datasets. Through a time-series crosssectional analysis, I find that virtual meetings significantly increased participation in some local
+contexts but did not affect or decreased participation in others. Importantly, I find evidence that
+while virtual meetings experience similar inequalities in who participates as in offline meetings,
+they garner greater participation from women in both county and school board governments.
+Overall this paper adds to our understanding of how individuals navigate and participate within
+their interlocking spheres of local governments and how public meeting formats may shape local
+political representation.
+  </blockquote>
+</details>
+<br/>
+
+
+
 **Expanding Our Coverage Of Local Politics: An Application of Named-Entity Recognition to Public Meeting Minutes**  
 Lucas Boschelli  
 [<kbd>[Poster Presentation]</kbd>](https://www.dropbox.com/s/7cj2i37lnvq5y0h/BoschelliLucasPoster.pdf?dl=0)  
