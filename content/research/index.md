@@ -6,8 +6,8 @@ permalink: /research/
 ---
 ## Under Review:
 ---
- **The Return of Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**  
- Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson   
+ **Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**  
+ Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
@@ -15,7 +15,9 @@ permalink: /research/
   <blockquote>
     Increasingly, corporations expand through the creation or acquisition of new subsidiary companies. Despite the commonality of the practice, little is known regarding how it influences corporations’—and by extension, their subsidiaries’—political behavior. This paper analyzes how subsidiaries shape corporations’ political interests and collaborations as they seek to influence the Supreme Court. To accomplish this, we construct a historical dataset of the acquisitions and mergers of a politically active sample of Fortune 500 corporations (spanning various industries and sizes) that we combine with their history of filing amicus curiae briefs to the Court. Through social network and longitudinal analyses, we analyze whether and how corporations change their targeted issue areas, collaborations and political success following consolidation. While mergers and acquisitions have no effect on the quantity of actions or success before the Court, they expand the issues of political interest for corporations, making them information brokers in their new political network.
   </blockquote>
-</details>
+</details>   
+<br/>
+
 
 
 
@@ -34,13 +36,14 @@ Lucas Boschelli and Dino P. Christenson
 ## Conference Presentations:
 ---
 **Is a More Accessible Local Government a More Representative One? The Effects of Online Public Meetings**  
-Lucas Boschelli
+Lucas Boschelli   
+[<kbd>[Current Draft]</kbd>](https://www.dropbox.com/scl/fi/8i2pil9g87l0xje8n63t8/Boschelli-APSA-Draft.pdf?rlkey=t50tsl76cnfjujm1reho7z7ze&dl=0) 
  <details> 
-  <summary>
+  <summary> 
  <kbd>[Abstract]</kbd>
   </summary>
   <blockquote>
-    Is a more accessible local government a more representative one? In response to the COVID19 pandemic, many local governments opted to host their public meetings—at least in part—virtually,
+    Is a more accessible local government a more representative one? In response to the COVID-19 pandemic, many local governments opted to host their public meetings—at least in part—virtually,
 a practice many continued even after the worst of the pandemic subsided. Despite the theorized
 increase in accessibility, previous research has found limited effects on either participation or
 the diversity of participants following this shift to online format meetings; however, most of this
@@ -48,10 +51,10 @@ work has only examined local participation in the vacuum of municipal government
 issues often involve multiple overlapping local institutions, each with its own governing body
 and, importantly, each with its own opportunities for civic engagement. This paper attempts to
 expand our understanding of political participation within local politics by analyzing whether
-the shift to more accessible online meetings promotes healthy democratic participation or amplifies pre-existing inequities in local political participation. To accomplish this, I first construct a
+the shift to more accessible online meetings promotes healthy democratic participation or amplifies pre-existing inequities in local political participation. To accomplish this, I first construct a
 novel dataset of public meeting minutes from 2018 until 2022 for county, municipal, and school
 board governments within the St. Louis region. I then combine public participation data from
-these minutes with existing political and demographic datasets. Through a time-series crosssectional analysis, I find that virtual meetings significantly increased participation in some local
+these minutes with existing political and demographic datasets. Through a time-series crosssectional analysis, I find that virtual meetings significantly increased participation in some local
 contexts but did not affect or decreased participation in others. Importantly, I find evidence that
 while virtual meetings experience similar inequalities in who participates as in offline meetings,
 they garner greater participation from women in both county and school board governments.
