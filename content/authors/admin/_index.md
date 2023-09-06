@@ -13,10 +13,8 @@ organizations:
   - name: Washington University in St. Louis
 education:
   courses:
-  - course: MA in Political Science
+    - course: MA in Political Science
       institution: Washington University in St. Louis
-    - course: BA in Political Science
-      institution: Beloit College
 email: boschelli@wustl.edu
 superuser: true
 user_groups:
