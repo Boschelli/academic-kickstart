@@ -7,7 +7,8 @@ permalink: /research/
 ## Under Review:
 ---
  **Conglomerates at the Court: The Political Consequences of Mergers & Acquisitions.**  
- Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson
+ Lucas Boschelli, Janet M. Box-Steffensmeier and Dino P. Christenson    
+ [<kbd>[Manuscript]</kbd>](https://www.dropbox.com/scl/fi/sgagzt5k9qzw44jc5v6ug/m-a_ms_v10.pdf?rlkey=8hwjzi5uecfei2lwffzk245j4&dl=0) [<kbd>[Online Appendices]</kbd>](https://www.dropbox.com/scl/fi/bgcy8sy4nqocm4bo9osrt/m-a_appendix.pdf?rlkey=oqc1bf0iysysrnu8t5ohr7bsh&dl=0) 
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
@@ -22,7 +23,8 @@ permalink: /research/
 
 
 **Deal or No Deal: Voting on Multiple Provision Ballot Measures.**  
-Lucas Boschelli and Dino P. Christenson  
+Lucas Boschelli and Dino P. Christenson   
+[<kbd>[Manuscript]</kbd>](https://www.dropbox.com/scl/fi/rj6b5x1c1d6545mhqtxlh/ballot_ms_v5.pdf?rlkey=chu4icoly5s7xv973ftai4f5o&dl=0) [<kbd>[Online Appendices]</kbd>](https://www.dropbox.com/scl/fi/ljokwrs14n0km67kzeutg/appendix.pdf?rlkey=citpy9mc0u3ckx0cnho8qxt04&dl=0) 
  <details> 
   <summary>
  <kbd>[Abstract]</kbd>
