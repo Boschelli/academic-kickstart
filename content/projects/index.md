@@ -4,8 +4,8 @@ summary: "Hello!" # Add a page description.
 date: "2019-01-01T00:00:00Z" # Add today's date.
 permalink: /projects/
 ---
-# Projects I Currently Help Maintain:
----
+
+
 ## **St. Louis Policy Data Project**  
   **Description:**   
     The purpose of this project is to provide end users with the capability to visually analyze and compare data pertaining to St. Louis City and County. We accomplished by integrating data from diverse sources into a geospatial or mapping platform and make the data free to download.  
