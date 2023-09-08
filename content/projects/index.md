@@ -5,8 +5,9 @@ date: "2019-01-01T00:00:00Z" # Add today's date.
 permalink: /projects/
 ---
 
-
+---
 ## **St. Louis Policy Data Project**  
+---
   **Description:**   
     The purpose of this project is to provide end users with the capability to visually analyze and compare data pertaining to St. Louis City and County. We accomplished by integrating data from diverse sources into a geospatial or mapping platform and make the data free to download.  
 
@@ -29,7 +30,7 @@ permalink: /projects/
 <br/>
  
 ## **Amicus Curiae Networks**
-
+---
 **Description:**  
     In order to study the formation and impact of interest group networks, we created the Amicus Curiae Networks Project, a database of all organized interests (e.g., organizations, associations and corporations) that have signed onto amicus curiae briefs on Supreme Court merits cases over the history of the Court. This list of cosignatories makes it possible to trace the purposive and coordinated behavior of a comprehensive collection of interests.  
 
@@ -51,6 +52,7 @@ permalink: /projects/
 <br/>
  
 ## **Stories That Win**  
+---
  **Description:**  
     A webpage dedicated to the collection of origin stories—political origin stories of politicians, stories of community and national beginnings, heroic tales that literally make local, regional or national public figures, and other stories that people tell and retell. Those are the stories that win, and we want to understand why.  
 
